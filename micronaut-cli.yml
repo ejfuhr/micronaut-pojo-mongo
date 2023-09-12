@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example.micronautguide
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, data, data-mongodb-reactive, gradle, http-client-test, junit, kotlin, kotlin-application, ksp, logback, micronaut-aot, micronaut-build, mongo-reactive, netty-server, properties, reactor, reactor-http-client, readme, serialization-jackson, shade, test-resources]
